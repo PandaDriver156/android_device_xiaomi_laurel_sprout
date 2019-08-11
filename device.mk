@@ -33,8 +33,7 @@ $(call inherit-product, $(DEVICE_PATH)/properties.mk)
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
-    $(LOCAL_PATH) \
-    hardware/xiaomi
+    $(LOCAL_PATH)
 
 # A/B
 AB_OTA_POSTINSTALL_CONFIG += \
