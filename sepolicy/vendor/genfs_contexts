@@ -1,0 +1,2 @@
+# Camera
+genfscon sysfs /class/video4linux                                                                       u:object_r:sysfs_video4linux:s0

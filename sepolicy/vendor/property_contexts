@@ -1,0 +1,12 @@
+camera.clientname                                                 u:object_r:camera_prop:s0
+camera.sensor.frontMain.fuseID                                    u:object_r:camera_prop:s0
+camera.sensor.rearAux.fuseID                                      u:object_r:camera_prop:s0
+camera.sensor.rearMain.fuseID                                     u:object_r:camera_prop:s0
+camera_screen_light_delay                                         u:object_r:camera_prop:s0
+persist.camera.dualcal.state                                      u:object_r:camera_prop:s0
+persist.camera.module.info                                        u:object_r:camera_prop:s0
+persist.camera.module.infoext                                     u:object_r:camera_prop:s0
+persist.camera.sensor.name                                        u:object_r:camera_prop:s0
+persist.camera.third_algo.info                                    u:object_r:camera_prop:s0
+ro.camera.req.fmq.size                                            u:object_r:camera_prop:s0
+ro.camera.res.fmq.size                                            u:object_r:camera_prop:s0
